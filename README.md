@@ -62,13 +62,6 @@ loan-default-prediction/
 
 The trained model predicts whether a loan applicant is likely to default based on the provided features. This project demonstrates the practical application of machine learning in financial risk analysis and highlights the importance of data preprocessing and feature engineering in building reliable predictive models.
 
-## 🌱 Future Improvements
-
-* Compare the performance of multiple classification algorithms.
-* Perform hyperparameter tuning to improve model accuracy.
-* Address class imbalance using techniques like SMOTE.
-* Deploy the model using Streamlit or Flask for real-time predictions.
-
 ---
 
 *This project was completed as part of a Machine Learning internship to strengthen my understanding of data preprocessing, feature engineering, classification models, and predictive analytics using Python and Scikit-learn.*
