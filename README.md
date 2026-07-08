@@ -23,17 +23,6 @@ The project follows a complete machine learning pipeline, including data preproc
 * Scikit-learn
 * Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-loan-default-prediction/
-│
-├── data/
-├── task6_loan_default_prediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 📊 Workflow
 
 1. Load and explore the loan dataset.
