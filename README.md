@@ -44,6 +44,20 @@ loan-default-prediction/
 6. Evaluate the model using classification metrics.
 7. Predict the likelihood of loan default for new applicants.
 
+## 📊 Output
+
+### Bar Plot
+
+![Bar Plot 0](Images/Barplot.png)
+
+### Decision Tree & Random Forest
+
+![DecisionTree & RandomForest](Images/DecisionTree_RandomForest.png)
+
+### Heatmap
+
+![Heatmap](Images/Heatmap.png)
+
 ## 📈 Results
 
 The trained model predicts whether a loan applicant is likely to default based on the provided features. This project demonstrates the practical application of machine learning in financial risk analysis and highlights the importance of data preprocessing and feature engineering in building reliable predictive models.
